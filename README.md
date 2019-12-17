@@ -1,2 +1,2 @@
-# SQL Demonstartion
+# SQL Demonstration
 
